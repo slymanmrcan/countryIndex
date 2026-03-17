@@ -1,0 +1,68 @@
+## Build outputs
+bin/
+obj/
+out/
+publish/
+
+## User-specific files
+*.user
+*.rsuser
+*.suo
+
+## IDE / Editor
+.vs/
+.vscode/
+.idea/
+
+## Rider
+*.sln.iml
+
+## Visual Studio for Mac / MonoDevelop
+*.userprefs
+
+## OS files
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
+
+## Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## NuGet
+*.nupkg
+packages/
+!**/packages/build/
+.nuget/
+*.snupkg
+
+## Generated files
+*.g.cs
+*.generated.cs
+
+## DotNet
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Local secrets / env
+appsettings.Development.json
+.env
+.env.*
+
+## Node / Frontend varsa
+node_modules/
+dist/
+build/
+coverage/
+.npm/
+.yarn/
+.pnpm-store/
+
+## Mac / tooling
+*.swp
+*.swo

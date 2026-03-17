@@ -1,0 +1,6 @@
+@countryindex_mssql_HostAddress = http://localhost:5074
+
+GET {{countryindex_mssql_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
